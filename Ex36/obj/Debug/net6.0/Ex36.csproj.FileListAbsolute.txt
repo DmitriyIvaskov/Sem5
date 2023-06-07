@@ -1,0 +1,15 @@
+D:\00_GeekBrains\Урок 5. Функции и одномерные массивы\Sem5\Ex36\bin\Debug\net6.0\Ex36.exe
+D:\00_GeekBrains\Урок 5. Функции и одномерные массивы\Sem5\Ex36\bin\Debug\net6.0\Ex36.deps.json
+D:\00_GeekBrains\Урок 5. Функции и одномерные массивы\Sem5\Ex36\bin\Debug\net6.0\Ex36.runtimeconfig.json
+D:\00_GeekBrains\Урок 5. Функции и одномерные массивы\Sem5\Ex36\bin\Debug\net6.0\Ex36.dll
+D:\00_GeekBrains\Урок 5. Функции и одномерные массивы\Sem5\Ex36\bin\Debug\net6.0\Ex36.pdb
+D:\00_GeekBrains\Урок 5. Функции и одномерные массивы\Sem5\Ex36\obj\Debug\net6.0\Ex36.csproj.AssemblyReference.cache
+D:\00_GeekBrains\Урок 5. Функции и одномерные массивы\Sem5\Ex36\obj\Debug\net6.0\Ex36.GeneratedMSBuildEditorConfig.editorconfig
+D:\00_GeekBrains\Урок 5. Функции и одномерные массивы\Sem5\Ex36\obj\Debug\net6.0\Ex36.AssemblyInfoInputs.cache
+D:\00_GeekBrains\Урок 5. Функции и одномерные массивы\Sem5\Ex36\obj\Debug\net6.0\Ex36.AssemblyInfo.cs
+D:\00_GeekBrains\Урок 5. Функции и одномерные массивы\Sem5\Ex36\obj\Debug\net6.0\Ex36.csproj.CoreCompileInputs.cache
+D:\00_GeekBrains\Урок 5. Функции и одномерные массивы\Sem5\Ex36\obj\Debug\net6.0\Ex36.dll
+D:\00_GeekBrains\Урок 5. Функции и одномерные массивы\Sem5\Ex36\obj\Debug\net6.0\refint\Ex36.dll
+D:\00_GeekBrains\Урок 5. Функции и одномерные массивы\Sem5\Ex36\obj\Debug\net6.0\Ex36.pdb
+D:\00_GeekBrains\Урок 5. Функции и одномерные массивы\Sem5\Ex36\obj\Debug\net6.0\Ex36.genruntimeconfig.cache
+D:\00_GeekBrains\Урок 5. Функции и одномерные массивы\Sem5\Ex36\obj\Debug\net6.0\ref\Ex36.dll
